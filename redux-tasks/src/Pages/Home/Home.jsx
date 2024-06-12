@@ -10,6 +10,7 @@ function Home() {
         <p><Link to={'/task4'}>Перейти к задаче 4</Link></p>
         <p><Link to={'/task5'}>Перейти к задаче 5</Link></p>
         <p><Link to={'/task6'}>Перейти к задаче 6</Link></p>
+        <p><Link to={'/task7'}>Перейти к задаче 7</Link></p>
         <p><Link to={'/task9'}>Перейти к задаче 9</Link></p>
    
     </>
