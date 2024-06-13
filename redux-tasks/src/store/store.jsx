@@ -8,6 +8,11 @@ import palindrom from '../slice/palindrom'
 import swapFlag from '../slice/swapFlag'
 import validEmail from '../slice/validEmail'
 import sumInp from '../slice/sumInp'
+import validPass from '../slice/validPass'
+import validPass2 from '../slice/validPass2'
+import validPass3 from '../slice/validPass3'
+import language from '../slice/language'
+import acceptTasks from '../slice/acceptTasks'
 
 const store = configureStore({
     reducer: {
@@ -19,6 +24,11 @@ const store = configureStore({
         swapFlag,
         validEmail,
         sumInp,
+        validPass,
+        validPass2,
+        validPass3,
+        language,
+        acceptTasks,
     }
 });
 
